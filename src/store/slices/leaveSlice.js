@@ -6,8 +6,8 @@ import { toast } from "react-toastify";
 const token = localStorage.getItem("token");
 
 // Base API
-// const BASE_URL = "https://rwt-emp-backend.onrender.com/admin";
-const BASE_URL = "http://localhost:8000/admin";
+const BASE_URL = "https://rwt-emp-backend.onrender.com/admin";
+// const BASE_URL = "http://localhost:8000/admin";
 
 
 // Thunks
